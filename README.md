@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hi, I’m Muhammad Bilal</h1>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;" /> Hi, I’m Muhammad Bilal
 </h1>
@@ -9,7 +8,7 @@
 - 👀 Passionate about *Full Stack Development, **Mobile App Creation, **AI Integration, and **Teaching*.  
 - 🌱 Currently enhancing my skills in *Artificial Intelligence, **Cloud Computing, and **Cross-Platform Development*.  
 - 💞️ Open to collaborating on *AI projects, **Mobile Applications, and **Web Solutions*.  
-- 📫 Reach me via: [Email](mailto:mbilal75362@gmail.com) | [LinkedIn](https://www.linkedin.com/in/devxbilal/)  
+- 📫 Reach me via: [Email](mailto:mbilal75362@gmail.com) | [LinkedIn](https://www.linkedin.com/in/devxbilal/) | [GitHub](https://github.com/MBilal8136)  
 - 😄 Pronouns: *He/Him*  
 - ⚡ Fun fact: I enjoy blending *creativity* with *technology* to solve real-world problems.  
 
@@ -61,12 +60,12 @@
 ### 📊 GitHub Stats & More
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=MBilal8136&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBilal8136&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBilal&theme=radical&hide_border=true" alt="Coding Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MBilal8136&theme=radical&hide_border=true" alt="Coding Streak">
 </p>
 
 ---
@@ -75,5 +74,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/devxbilal/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:mbilal75362@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/MuhammadBilal"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://github.com/MBilal8136"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
 </p>
