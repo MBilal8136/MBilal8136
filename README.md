@@ -43,10 +43,10 @@
 
 <h3 align="center">🚀 What I Do</h3>
 <p align="center"> 
-  - Mobile Development: Building native and cross-platform applications using Android (Java/Kotlin) and React Native.  
+  - Mobile Development: Building native and cross-platform applications using React Native.  
   <br> - Web Development: Developing full-stack web applications with the MERN stack and .NET Framework.  
   <br> - AI & Automation: Leveraging AI tools like OpenAI APIs for intelligent systems and process automation.  
-  <br> - Teaching: Educating students in biology and chemistry.  
+   
 </p>
 
 ---
@@ -62,7 +62,7 @@
 
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mbilal75362@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
