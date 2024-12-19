@@ -76,7 +76,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal&show_icons=true&theme=radical" alt="Muhammad Bilal's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MBilal8136&show_icons=true&theme=radical" alt="Muhammad Bilal's GitHub stats"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBilal8136&theme=radical" alt="GitHub Streak"/>
 </p>
