@@ -64,10 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBilal8136&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MBilal8136&theme=radical&hide_border=true" alt="Coding Streak">
-</p>
-
 ---
 
 ### 🔗 Connect With Me
